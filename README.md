@@ -1,22 +1,22 @@
 # coursera-webdev
 Curso de desarrollo web. HTML, CSS y JavaScript
  <a href="mod2_solution/index.html">
-  <h1>
+  <h2>
     Module 2 Solution
-  </h1>
+  </h2>
  </a>
  <a href="mod3_solution/index.html">
-  <h1>
+  <h2>
     Module 3 Solution
-  </h1>
+  </h2>
  </a>
   <a href="mod4_solution/index.html">
-  <h1>
+  <h2>
     Module 4 Solution
-  </h1>
+  </h2>
  </a>
  <a href="mod5_solution/index.html">
-  <h1>
+  <h2>
     Module 5 Solution
-  </h1>
+  </h2>
  </a>
